@@ -1,1 +1,1 @@
-"# The Collatz Conjecture"  
+# The Collatz Conjecture
