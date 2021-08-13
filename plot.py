@@ -1,4 +1,4 @@
-# 420572
+# 580000
 
 import os
 import argparse
@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--start', help='Enter the starting digit')
